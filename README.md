@@ -1,5 +1,3 @@
-# Precios_Vivienda_Madrid
-Análisis del precio de las viviendas en Madrid
 # Precio_Vivienda_Madrid
 Análisis del precio de las viviendas en Madrid con Python y sus librerias.
 
