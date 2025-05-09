@@ -38,3 +38,4 @@ st.dataframe(pisos[['buy_price', 'sq_mt_built', 'n_rooms', 'n_bathrooms']].descr
 # Aquí podríamos añadir filtros y más visualizaciones en el futuro
 
 st.write("¡Esta es una versión inicial!")
+#streamlit run app_pisos.py   para ejecutar.
